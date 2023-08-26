@@ -151,3 +151,70 @@ margin-left: 15px;
 .shoping-made{
   font-weight: bold;
 }
+.image-section{
+  height: 400px;
+display: flex;
+justify-content: center;
+  background-size: cover;
+  background:url("/image/amazone\ 2.jpg");
+  align-items: flex-end;
+}
+.image-text{
+  border: 2px solid white;
+  height: 27px;
+width: 80%;
+ align-items: center;
+ justify-content: center;
+ background-color: wheat;
+ display: flex;
+ margin-bottom: 25px;
+}
+.image-text a{
+  font-size: 20px;
+}
+.shop-store{
+
+  display: flex;
+flex-wrap: wrap;
+  justify-content: space-evenly;
+background-color:rgb(241, 233, 233);
+}
+.box{
+  height: 350px;
+  width: 20%;
+  background-color:white;
+  padding: 17px 0px 51px;
+  margin-top: 84px;
+  margin-left: 34px;
+}
+
+
+.bluetooth-image{
+  height: 280px;
+  background-image: cover;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+ 
+}
+.box-container{
+  margin-left: 1rem;
+  margin-right: 1rem;
+ 
+}
+.ls-nav{
+height: 39px; 
+text-align: center;
+align-items: center;
+padding-top: 18px;
+color: white;
+font-size: 18px;
+  border: 1px solid white;
+  background-color: #2e5263;
+}
+.all-contain{
+  height: 470px;
+  border: 2px solid red;
+  background-color: #232f3e;
+  color: white;
+
+}
