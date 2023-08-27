@@ -186,6 +186,7 @@ background-color:rgb(241, 233, 233);
   padding: 17px 0px 51px;
   margin-top: 84px;
   margin-left: 34px;
+ 
 }
 
 
@@ -216,5 +217,49 @@ font-size: 18px;
   border: 2px solid red;
   background-color: #232f3e;
   color: white;
+}
 
+footer{
+  margin-top: 20px;
+}
+.all-content{
+  background-color:#222f3d ;
+  height: 300px;
+  color: white;
+  display: flex;
+  justify-content: space-evenly;
+  
+}
+ul a{
+  display: block;
+  padding-top: 15px;
+}
+ul p{
+  font-size: 21px;
+  padding-top: 10px;
+}
+.final-container{
+  background-color:#131a22;
+  height: 300px;
+  color: white;
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 34px;
+  
+}
+.final-container ul a{
+  display: block;
+  padding-top: 15px;
+  font-size: 12px;
+}
+.final-container ul p{
+  color:rgb(255, 255, 255);
+  font-size: 14px;
+  padding-top: 10px;
+}
+.last-text{
+  color: white;
+  background-color:#131a22;
+  text-align: center;
+  padding-bottom: 24px;
 }
