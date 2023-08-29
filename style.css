@@ -186,6 +186,7 @@ background-color:rgb(241, 233, 233);
   padding: 17px 0px 51px;
   margin-top: 84px;
   margin-left: 34px;
+
  
 }
 
@@ -195,6 +196,7 @@ background-color:rgb(241, 233, 233);
   background-image: cover;
   margin-top: 1rem;
   margin-bottom: 1rem;
+  background-size: cover;
  
 }
 .box-container{
