@@ -1,0 +1,247 @@
+* {
+  margin: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  border: border-box;
+}
+
+.navbar {
+  height: 60px;
+  background-color: black;
+  color: white;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+.amz-logo {
+  height: 50px;
+  width: 152px;
+}
+.logo {
+  height: 50px;
+  width: 100%;
+  background-size: cover;
+  background-image: url("./image/Amazon-Logo.png");
+}
+
+.logo:hover {
+  border: 2px solid white;
+}
+.address-first {
+  font-size: 12px;
+  color: #cccccc;
+  margin-left: 34px;
+}
+span {
+  font-size: 0.7rem;
+}
+second-nav {
+  font-size: 0.85;
+}
+
+.address-second {
+  font-size: 20px;
+  margin-left: 1px;
+}
+#add-icon {
+  display: flex;
+  align-items: center;
+}
+i {
+  margin-left: 19px;
+  font-size: 18px;
+}
+.nav-address:hover {
+  border: 2px solid white;
+}
+.search-input {
+  width: 500px;
+}
+.nav-search {
+  display: flex;
+  justify-content: space-evenly;
+  height: 40px;
+  background-color: rgb(255, 235, 192);
+  border-top-left-radius: 9px;
+  border-bottom-left-radius: 9px;
+  width: 1070x;
+  border: 2px solid rgb(241, 122, 11);
+  border-top-right-radius: 12px;
+  border-bottom-right-radius: 12px;
+}
+.search-select {
+  width: 45px;
+  text-align: center;
+  border-top-left-radius: 9px;
+  border-bottom-left-radius: 9px;
+  background-color: #f3f3f3;
+  border: none;
+}
+.icon-search {
+  color: black;
+  display: flex;
+  align-items: center;
+  width: 50px;
+  background-color: rgb(241, 122, 11);
+  border-top-right-radius: 11px;
+  border-bottom-right-radius: 11px;
+  border: 1px solid rgb(241, 122, 11);
+}
+.icon-search:hover {
+  border: 1px solid white;
+}
+.nav-signin {
+  padding-left: 7px;
+}
+.nav-signin:hover {
+  border: 2px solid white;
+}
+span {
+  font-size: 13px;
+}
+
+.second-nav {
+  font-weight: bold;
+}
+.return {
+  padding-left: 10px;
+  text-align: center;
+  cursor: pointer;
+  height: 35px;
+  width: 114px;
+}
+.return:hover {
+  border: 2px solid white;
+}
+.order {
+  font-weight: bold;
+}
+.cart-icon:hover {
+  font-size: large;
+  border: 2px solid wheat;
+}
+.second-navbar {
+  height: 39px;
+  background-color: #232f3e;
+  align-items: center;
+  display: flex;
+  color: white;
+  justify-content: space-evenly;
+  cursor: pointer;
+}
+.amzon-tv p {
+  display: inline;
+  margin-left: 15px;
+}
+
+.amzon-tv {
+  width: 70%;
+}
+.shoping-made {
+  font-weight: bold;
+}
+.image-section {
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  background-size: cover;
+  background: url("./image/amazone\ 2.jpg");
+  align-items: flex-end;
+}
+.image-text {
+  border: 2px solid white;
+  height: 27px;
+  width: 80%;
+  align-items: center;
+  justify-content: center;
+  background-color: wheat;
+  display: flex;
+  margin-bottom: 25px;
+}
+.image-text a {
+  font-size: 20px;
+}
+.shop-store {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  background-color: rgb(241, 233, 233);
+}
+.box {
+  height: 350px;
+  width: 20%;
+  background-color: white;
+  padding: 17px 0px 51px;
+  margin-top: 84px;
+  margin-left: 34px;
+}
+
+.bluetooth-image {
+  height: 280px;
+  background-image: cover;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  background-size: cover;
+}
+.box-container {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+.ls-nav {
+  height: 39px;
+  text-align: center;
+  align-items: center;
+  padding-top: 18px;
+  color: white;
+  font-size: 18px;
+  border: 1px solid white;
+  background-color: #2e5263;
+}
+.all-contain {
+  height: 470px;
+  border: 2px solid red;
+  background-color: #232f3e;
+  color: white;
+}
+
+footer {
+  margin-top: 20px;
+}
+.all-content {
+  background-color: #222f3d;
+  height: 300px;
+  color: white;
+  display: flex;
+  justify-content: space-evenly;
+}
+ul a {
+  display: block;
+  padding-top: 15px;
+}
+ul p {
+  font-size: 21px;
+  padding-top: 10px;
+}
+.final-container {
+  background-color: #131a22;
+  height: 300px;
+  color: white;
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 34px;
+}
+.final-container ul a {
+  display: block;
+  padding-top: 15px;
+  font-size: 12px;
+}
+.final-container ul p {
+  color: rgb(255, 255, 255);
+  font-size: 14px;
+  padding-top: 10px;
+}
+.last-text {
+  color: white;
+  background-color: #131a22;
+  text-align: center;
+  padding-bottom: 24px;
+}
